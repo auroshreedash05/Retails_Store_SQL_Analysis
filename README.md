@@ -31,3 +31,23 @@ A basic END-TO-End Analyze a retail store 2023 data sales analysis in SQL
 - Rank product category sales
 
 ### 📝SQL concept used
+- SELECT
+- FROM
+- WHERE
+- AND
+- GROUP BY
+- HAVING
+- ORDER BY
+- MIN
+- MAX
+- AVG
+- ROUND
+- SUM
+- AS
+- CASE
+- WHEN
+- ELSE
+- END
+- BETWEEN
+- DESC
+- LIMIT
