@@ -31,17 +31,17 @@ A basic END-TO-End Analyze a retail store 2023 data sales analysis in SQL
 - Rank product category sales
 
 ### 📝SQL concept used
-#### Clause keywords
+##### Clause keywords
 - SELECT, FROM, WHERE, GROUP BY, HAVING, ORDER BY
-#### Aggregate Functions
+##### Aggregate Functions
 - SUM, MIN, MAX, AVG, ROUND
-#### Conditional Keywords
+##### Conditional Keywords
 - CASE, WHEN, ELSE, END
-#### Filter & Range Keywords
+##### Filter & Range Keywords
 - AND, BETWEEN, LIMIT
-#### Alias Keyword
+##### Alias Keyword
 - AS
-#### Sort keyword
+##### Sort keyword
 - DESC, ASC
 
 ### 💡Key Insights
