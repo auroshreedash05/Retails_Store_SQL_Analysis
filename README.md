@@ -15,7 +15,7 @@ A basic END-TO-End Analyze a retail store 2023 data sales analysis in SQL
 - Price Per Unit
 - Total Amount 
 ### 🛠️ Tools Used
-- Postgre SQL18
+- PostgreSQL 18
 - PG Admin4
 ### ❓Questions Solved
 - List of customer who buy the beauty product
@@ -31,23 +31,17 @@ A basic END-TO-End Analyze a retail store 2023 data sales analysis in SQL
 - Rank product category sales
 
 ### 📝SQL concept used
-- SELECT
-- FROM
-- WHERE
-- AND
-- GROUP BY
-- HAVING
-- ORDER BY
-- MIN
-- MAX
-- AVG
-- ROUND
-- SUM
+#### Clause keywords
+- SELECT, FROM, WHERE, GROUP BY, HAVING, ORDER BY
+#### Aggregate Functions
+- SUM, MIN, MAX, AVG, ROUND
+#### Conditional Keywords
+- CASE, WHEN, ELSE, END
+#### Filter & Range Keywords
+- AND, BETWEEN, LIMIT
+#### Alias Keyword
 - AS
-- CASE
-- WHEN
-- ELSE
-- END
-- BETWEEN
-- DESC
-- LIMIT
+#### Sort keyword
+- DESC, ASC
+
+### 💡Key Insights
