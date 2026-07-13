@@ -15,7 +15,7 @@ A basic END-TO-End Analyze a retail store 2023 data sales analysis in SQL
 - Price Per Unit
 - Total Amount 
 ### 🛠️ Tools Used
-- Postgre SQL
+- Postgre SQL18
 - PG Admin4
 ### ❓Questions Solved
 - List of customer who buy the beauty product
