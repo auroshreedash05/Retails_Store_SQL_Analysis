@@ -29,3 +29,5 @@ A basic END-TO-End Analyze a retail store 2023 data sales analysis in SQL
 - From January to March of 2023 Which product category sales most?
 - Which gender buy the Which product most?
 - Rank product category sales
+
+### 📝SQL concept used
