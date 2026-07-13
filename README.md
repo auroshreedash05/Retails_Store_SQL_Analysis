@@ -51,6 +51,6 @@ A basic END-TO-End Analyze a retail store 2023 data sales analysis in SQL
 
 
 
-### Sample Queries
+### ✍️Sample Queries
 SELECT * FROM Retail_store WHERE Date BETWEEN '2023-10-01' AND '2023-12-31';
 SELECT * FROM Retail_store WHERE Date BETWEEN '2023-10-01' AND '2023-12-31';
