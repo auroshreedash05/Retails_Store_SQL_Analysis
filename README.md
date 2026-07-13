@@ -4,7 +4,7 @@ A basic END-TO-End Analyze a retail store 2023 data sales analysis in SQL to ext
 ### 📊 Dataset
 ##### Table :- 
 - Retail_Store
-- [![Dataset](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset)
+- [Dataset](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset)
 ##### Columns :-
 - Transaction Id
 - Date
