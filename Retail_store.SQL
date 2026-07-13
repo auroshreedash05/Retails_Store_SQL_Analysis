@@ -89,7 +89,7 @@ FROM
 
 
 
--- Product category that sales most?
+-- Product category that sales most
 
 SELECT PRODUCT_CATEGORY,
        COUNT (QUANTITY) AS SALES_QUANTITY,
@@ -119,7 +119,7 @@ HAVING
 
 
 
--- Average revenue generate per category?
+-- Average revenue generate per category
 
 SELECT PRODUCT_CATEGORY,
        ROUND (AVG (TOTAL_AMOUNT), 2) AS AVERAGE_SALES
@@ -146,7 +146,7 @@ WHERE
 
 
 
--- From January to March of 2023 Which product category sales most?
+-- From January to March of 2023 Which product category sales most
 
 SELECT DATE,
        PRODUCT_CATEGORY,
@@ -168,7 +168,7 @@ LIMIT 1;
 
 
 
--- Which gender buy the Which product most?
+-- Gender buy the product most
 
 SELECT GENDER,
        PRODUCT_CATEGORY,
