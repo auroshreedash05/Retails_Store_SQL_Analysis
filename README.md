@@ -30,7 +30,7 @@ A basic END-TO-End Analyze a retail store 2023 data sales analysis in SQL
 - Which gender buy the Which product most?
 - Rank product category sales
 
-### 📝SQL concept used
+### 📝SQL Concept Used
 ##### Clause keywords
 - SELECT, FROM, WHERE, GROUP BY, HAVING, ORDER BY
 ##### Aggregate Functions
@@ -45,3 +45,11 @@ A basic END-TO-End Analyze a retail store 2023 data sales analysis in SQL
 - DESC, ASC
 
 ### 💡Key Insights
+
+
+
+
+
+
+### Sample Queries
+SELECT * FROM Retail_store WHERE Date BETWEEN '2023-10-01' AND '2023-12-31';
