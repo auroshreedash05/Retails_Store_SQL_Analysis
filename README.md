@@ -18,17 +18,17 @@ A basic END-TO-End Analyze a retail store 2023 data sales analysis in SQL to ext
 - PostgreSQL 18
 - PG Admin4
 ### ❓Questions Solved
-- List of customer who buy the beauty product
-- List of male customer who order electronic product and the revenue generated
+- List of customer who buy the beauty product.
+- List of male customer who order electronic product and the revenue generated.
 - Which Gender buy the product most?
 - What are the minimum, maximum and average age buy the products?
 - Which Product category sales most?
 - How much revenue generate from Clothing product?
 - What is the Average revenue generate in each category?
-- Customer Id rank by the Amount
+- Rank of each customer by their total spends.
 - From January to March of 2023 Which product category sales most?
 - Which gender buy the Which product most?
-- Rank product category sales
+- Rank of each product category sales.
 
 ### 📝SQL Concept Used
 ##### Clause keywords
