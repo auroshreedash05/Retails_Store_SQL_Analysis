@@ -20,11 +20,11 @@ A basic END-TO-End Analyze a retail store 2023 data sales analysis in SQL to ext
 ### ❓Questions Solved
 - List of customer who buy the beauty product
 - List of male customer who order electronic product and the revenue generated
-- Gender buy the product most
-- The minimum, maximum and average age who buy the products
-- Product category that sales most
-- Total revenue generate from Clothing product
-- Average revenue generate per category?
+- Which Gender buy the product most?
+- What are the minimum, maximum and average age buy the products?
+- Which Product category sales most?
+- How much revenue generate from Clothing product?
+- What is the Average revenue generate in each category?
 - Customer Id rank by the Amount
 - From January to March of 2023 Which product category sales most?
 - Which gender buy the Which product most?
