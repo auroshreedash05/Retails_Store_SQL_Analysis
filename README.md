@@ -3,7 +3,8 @@
 A basic END-TO-End Analyze a retail store 2023 data sales analysis in SQL to extract insights about sales in gender, age and category, etc.
 ### 📊 Dataset
 ##### Table :- 
-- Retail_Store 
+- Retail_Store
+- [![Dataset](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset)
 ##### Columns :-
 - Transaction Id
 - Date
