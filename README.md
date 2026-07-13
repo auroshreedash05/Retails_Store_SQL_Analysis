@@ -1,6 +1,6 @@
 # Retails_Store_SQL_Analysis
 ## 🔎 Overview
-A basic END-TO-End Analyze a retail store 2023 data sales analysis in SQL
+A basic END-TO-End Analyze a retail store 2023 data sales analysis in SQL to extract insights about sales in gender, age and category, etc.
 ### 📊 Dataset
 ##### Table :- 
 - Retail_Store 
