@@ -47,7 +47,7 @@ A basic END-TO-End Analyze a retail store 2023 data sales analysis in SQL to ext
 
 ### 💡Key Insights
 - Analyse a 1k rows of dataset from Kaggle.
-- Female buy the product almost 500+ and generate the revneue of 2,30,000+ than male.
+- Female buy the product almost 500+ and generate the revneue of 2.3lkh+ than male.
 - On an average 42 year old prople buy the products most.
 - Electronics are the best selling product in the store almost 342 quanity sales and 1.5lkh+ revenue generates.
 - Almost 150+ customer spends 1k+ rs in single orders, and almost 600+ customers are spends less than 500rs per order.
