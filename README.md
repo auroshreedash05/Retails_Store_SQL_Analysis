@@ -2,10 +2,9 @@
 ## 🔎 Overview
 A basic END-TO-End Analyze a retail store 2023 data sales analysis in SQL
 ### 📊 Dataset
-Table :- Retail_Store 
-
-Columns :-
-
+##### Table :- 
+- Retail_Store 
+##### Columns :-
 - Transaction Id
 - Date
 - Customer ID
@@ -15,10 +14,7 @@ Columns :-
 - Quantity
 - Price Per Unit
 - Total Amount 
-
-#### 🛠️ Tools Used
-
+### 🛠️ Tools Used
 - Postgre SQL
 - PG Admin4
-
-##### 
+### ❓Questions Solved
